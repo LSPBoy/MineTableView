@@ -1,2 +1,4 @@
 # MineTableView
-利用MVC方式创建TableView,创建一个我的界面只需增加几个模型即可，导入项目MineTableView文件夹，继承自MineTableViewController，写你所需要的Item即可，分分钟钟一个界面。下载下来即可看使用方法，为了满足更多的需求欢迎大家Issue我，目前我只能想到这么多主流的。如果喜欢欢迎star，有问题欢迎issue我，联系方式:qq2259288066
+利用MVC方式创建TableView,创建一个我的界面只需增加几个模型即可，导入项目MineTableView文件夹，继承自MineTableViewController，写你所需要的Item即可，分分钟钟一个界面。下载下来即可看使用方法，为了满足更多的需求欢迎大家Issue我，目前我只能想到这么多主流的。如果喜欢欢迎star，有问题欢迎issue我，联系方式:qq2259288066.
+
+
